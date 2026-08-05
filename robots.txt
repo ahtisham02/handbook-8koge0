@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahtisham02.github.io/handbook-8koge0/sitemap.xml
